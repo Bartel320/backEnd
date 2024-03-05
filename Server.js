@@ -2,6 +2,8 @@
 /* eslint-disable no-use-before-define */
 var http = require('http');
 
+/*This is a constructor*/
+
 const manager = {
     name: 'bos',
     age: 37
